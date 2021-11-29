@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Clean",
-              "command": "clean-cavnas:clean"
+              "command": "clean-canvas:clean"
             }
           ]
         }
