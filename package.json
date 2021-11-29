@@ -1,14 +1,14 @@
 {
-  "name": "clean-ally",
-  "main": "./lib/clean-ally",
+  "name": "clean-canvas",
+  "main": "./lib/clean-canvas",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A tool to clean out canvas specific HTML",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "clean-ally:clean"
+    "atom-workspace": "clean-canvas:clean"
   },
-  "repository": "https://github.com/atom/clean-ally",
+  "repository": "https://github.com/19khowes/clean-canvas",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
