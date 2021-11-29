@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Clean Canvas",
+        "command": "clean-canvas:clean"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Clean Canvas",
+          "submenu": [
+            {
+              "label": "Clean",
+              "command": "clean-cavnas:clean"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
