@@ -1,7 +1,7 @@
 {
   "name": "clean-canvas",
   "main": "./lib/clean-canvas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tool to clean out canvas specific HTML",
   "keywords": [],
   "activationCommands": {
